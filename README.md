@@ -1,4 +1,4 @@
-# study_2
+# IMC CALCULATOR
 
 A new Flutter project.
 
